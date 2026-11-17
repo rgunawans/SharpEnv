@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../SharpEnv.Desktop/SharpEnv.Desktop.csproj" />
+  <Project Path="SharpEnv.Core.csproj" />
+</Solution>
